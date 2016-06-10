@@ -1,0 +1,14 @@
+base
+e1071
+lattice
+ggplot2
+caret
+spam
+maps
+fields
+knitr
+randomForest
+survival
+gbm
+plyr
+MASS
